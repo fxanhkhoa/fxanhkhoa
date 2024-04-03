@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My Porfolio
-[Fxanhkhoa](https://pages.github.com/](https://fxanhkhoa.github.io/#)
+[Fxanhkhoa](https://fxanhkhoa.github.io/#)
 
 <!--
 **fxanhkhoa/fxanhkhoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
